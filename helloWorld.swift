@@ -8,8 +8,8 @@
 
 //  Created by Heejo Suh in Feb 2018.
 
-//  Copyright © 2018 MTHS. All rights reserved.
+//  Copyright Â© 2018 MTHS. All rights reserved.
 
 //
 
-print("Hello World!");
+print("Hello World!")
